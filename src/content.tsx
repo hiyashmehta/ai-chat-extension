@@ -1,5 +1,6 @@
 import cssText from "data-text:~style.css"
 import type { PlasmoCSConfig } from "plasmo"
+import React from "react"
 
 import { CountButton } from "~features/count-button"
 
