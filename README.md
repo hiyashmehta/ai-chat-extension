@@ -21,3 +21,4 @@ This is a simple chat extension built with Plasmo framework. It is a simple chat
 
 
 ![Sample](./extension-in-action.mp4)
+
