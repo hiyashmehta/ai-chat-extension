@@ -20,3 +20,6 @@ This is a simple chat extension built with Plasmo framework. It is a simple chat
 ## Sample
 
 https://github.com/hiyashmehta/ai-chat-extension/blob/main/extension-in-action.mp4
+
+
+https://firebasestorage.googleapis.com/v0/b/what-mohit-does.appspot.com/o/yash-videos%2Fextension-in-action%20(1).mp4?alt=media&token=082f71f5-110d-4ebb-a39e-ffa3da949829&_gl=1*1qjad3t*_ga*MTcwNTUxNDk5My4xNjk5MzQ5Njkz*_ga_CW55HF8NVT*MTY5OTM0OTY5Mi4xLjEuMTY5OTM0OTc3My42MC4wLjA.
