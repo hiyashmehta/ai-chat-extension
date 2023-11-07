@@ -19,7 +19,4 @@ This is a simple chat extension built with Plasmo framework. It is a simple chat
 
 ## Sample
 
-
-[Sample](https://github.com/hiyashmehta/ai-chat-extension/blob/main/extension-in-action.mp4)
-
 https://github.com/hiyashmehta/ai-chat-extension/blob/main/extension-in-action.mp4
